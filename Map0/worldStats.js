@@ -1,0 +1,1 @@
+var Map0_worldStats={numChunks:"65536",numPortals:"0",numPlayers:"51"};

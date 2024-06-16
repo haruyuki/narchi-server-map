@@ -1,0 +1,1 @@
+function WorldCoord(t,n,o){this.x=t,this.y=n,this.z=o}function dot(t,n,o,r){return t*o+n*r}function dot(t,n){return t.x*n.x+t.y*n.y}function length(t){return Math.sqrt(dot(t,t))}

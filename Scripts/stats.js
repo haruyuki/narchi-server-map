@@ -1,0 +1,1 @@
+var stats={peakMemoryBytes:43817672,renderedOnDate:"Sun, 16 June 2024",tectonicusVersion:"2.30.2",renderedOnTime:"14:10 AEST",renderTime:"4 minutes 21 seconds"};
